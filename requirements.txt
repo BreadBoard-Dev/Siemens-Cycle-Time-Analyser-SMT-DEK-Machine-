@@ -1,0 +1,13 @@
+# Core GUI
+PyQt5
+pyqt5-tools
+
+# Excel
+openpyxl
+
+# Database
+pyodbc
+pywin32
+
+# Utilities
+click

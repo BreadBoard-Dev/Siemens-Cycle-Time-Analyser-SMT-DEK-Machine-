@@ -1,0 +1,52 @@
+End User License Agreement (EULA)  
+Cycle Time Analyzer Software  
+Copyright © 2025 Siemens AG. All rights reserved.  
+Developed by: Prasad Gawas  
+
+IMPORTANT – READ CAREFULLY:
+This End User License Agreement (“Agreement”) is a legal contract between you (either an individual or a single entity) and Siemens AG (“Licensor”) for the use of the Cycle Time Analyzer software product, including computer software and associated media, printed materials, electronic documentation, and updates provided to you (collectively, the “Software”).
+
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
+
+1. LICENSE GRANT
+   - Licensor grants you a non-exclusive, non-transferable, limited license to install and use the Software solely for internal purposes in connection with SMT line cycle time analysis.
+   - The Software is licensed, not sold.
+
+2. RESTRICTIONS
+   - You may not reverse engineer, decompile, or disassemble the Software, except to the extent expressly permitted by law.
+   - You may not modify, adapt, translate, rent, lease, sublicense, or otherwise transfer rights to the Software.
+   - You may not remove, alter, or obscure any proprietary notices (including copyright and trademark notices).
+
+3. OWNERSHIP
+   - The Software and all intellectual property rights therein remain the property of Siemens AG and/or its licensors.
+   - Unauthorized use may result in civil and criminal penalties.
+
+4. CONFIDENTIALITY
+   - The Software may contain confidential information of Siemens AG.
+   - You agree to maintain the confidentiality of such information and not disclose it to third parties without prior written consent.
+
+5. DISCLAIMER OF WARRANTY
+   - The Software is provided “AS IS” without warranty of any kind.
+   - Siemens AG and the Developer disclaim all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+   - The entire risk arising out of the use or performance of the Software remains with you.
+
+6. LIMITATION OF LIABILITY
+   - In no event shall Siemens AG, the Developer, or its affiliates be liable for any damages whatsoever (including, without limitation, direct, indirect, incidental, consequential, special, or exemplary damages, or damages for business interruption, loss of business information, or loss of profits) arising out of the use of or inability to use the Software, even if advised of the possibility of such damages.
+
+7. TERMINATION
+   - This Agreement is effective until terminated.
+   - Siemens AG may terminate this Agreement immediately upon written notice if you fail to comply with any term or condition.
+   - Upon termination, you must destroy all copies of the Software.
+
+8. GOVERNING LAW
+   - This Agreement shall be governed by and construed in accordance with the laws of Germany, without regard to its conflict of law principles.
+
+9. ENTIRE AGREEMENT
+   - This Agreement constitutes the entire agreement between you and Siemens AG with respect to the Software and supersedes all prior or contemporaneous understandings.
+
+By installing or using this Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement.
+
+-----------------------------------
+Prasad Gawas  
+Developer – Cycle Time Analyzer  
+Siemens AG
