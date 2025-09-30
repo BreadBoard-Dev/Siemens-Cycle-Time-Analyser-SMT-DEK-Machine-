@@ -42,7 +42,7 @@ def resource_path(relative_name: str):
 # ----------------- CONFIG -----------------
 DOWNTIME_THRESHOLD = 300  # seconds (5 minutes)
 REPORT_BASE_DIR = Path.home() / "Documents" / "CycleTimeReports"
-MASTER_PASSWORD = "SiemensMaster2025!"
+MASTER_PASSWORD = "YourMasterPassword!"
 LINES_FILE = resource_path("lines.txt")
 PASSWORD_FILE = resource_path("password.txt")
 TEMPLATE_DB = resource_path("template.accdb")
@@ -904,3 +904,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
